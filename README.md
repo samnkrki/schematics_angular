@@ -23,6 +23,8 @@ To publish, simply do:
 npm run build
 npm publish
 ```
-
+use
+`schematics blank --name=my-component` to create new component
+`npm run build` to build
+`schematics .:hello --name=samin` to run
 That's it!
- 
